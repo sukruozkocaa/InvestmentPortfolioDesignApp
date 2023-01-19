@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "aachartkit-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AAChartModel/AAChartKit-Swift.git",
+      "state" : {
+        "revision" : "78bb437d4fe667457b4885105a92de34e099c0c1",
+        "version" : "7.3.0"
+      }
+    }
+  ],
+  "version" : 2
+}
